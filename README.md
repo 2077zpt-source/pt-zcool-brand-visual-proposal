@@ -20,6 +20,10 @@
 
 品牌问题判断、视觉方向 A/B/C、推荐方向、提案页结构、可执行清单
 
+## 在线演示
+
+https://2077zpt-source.github.io/pt-zcool-brand-visual-proposal/
+
 ## 文件
 
 - `SKILL.md`: skill 主体文件
